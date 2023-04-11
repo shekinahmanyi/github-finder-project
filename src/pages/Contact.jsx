@@ -8,7 +8,7 @@ function Contact() {
     <div>
     <p className='mb-2 text-2xl font-mono ml-3 text-center'>
         You can reach me at: 
-        <FaLinkedin className='justify-center'/> 
+        <FaLinkedin className=' flex justify-center'/> 
         <FaGithub/> 
         <FaTwitter/>
         </p>
