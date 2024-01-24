@@ -20,7 +20,9 @@ function UserResults() {
         ))}
       </div>
     );
-  } else {
+    
+  } else
+   {
     return <Spinner/>;
   }
 }
